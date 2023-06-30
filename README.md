@@ -16,3 +16,6 @@ Platform as a Service offers a strong and flexible platform in whitch the user c
 
 ### SAAS
 Software as a Service offers a complete product.
+
+## Zones and Regions
+Geografical locations where there are google data centers.
