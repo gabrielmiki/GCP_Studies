@@ -19,3 +19,6 @@ Software as a Service offers a complete product.
 
 ## Zones and Regions
 Geografical locations where there are google data centers.
+
+## Google Clod NEtworking
+Google has it's own network cables to meet the demand. 
